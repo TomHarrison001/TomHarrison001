@@ -44,11 +44,10 @@ No activity tracked
 <!--START_SECTION:waka-->
 
 ```txt
-Text         8 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.33 %
-CSS          3 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
-HTML         2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-JavaScript   51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text         7 hrs 51 mins   ████████████░░░░░░░░░░░░░   47.73 %
+CSS          4 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+HTML         3 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+JavaScript   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
