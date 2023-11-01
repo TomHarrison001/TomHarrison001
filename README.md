@@ -44,7 +44,10 @@ No activity tracked
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++           1 hr 16 mins    ████████████▒░░░░░░░░░░░░   49.95 %
+Objective-C   37 mins         ██████░░░░░░░░░░░░░░░░░░░   24.61 %
+C             30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+Other         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 ```
 
 <!--END_SECTION:waka-->
