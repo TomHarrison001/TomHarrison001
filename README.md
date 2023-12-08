@@ -28,7 +28,6 @@ Links:
 - Youtube - [https://www.youtube.com/@rockafella001](https://www.youtube.com/@rockafella001)
 - Instagram - [https://www.instagram.com/rockafelladev/](https://www.instagram.com/rockafelladev/)
 - itch.io - [https://rockafelladev.itch.io/](https://rockafelladev.itch.io/)
-- Github - [https://github.com/RockafellaDev/](https://github.com/RockafellaDev/)
 - Email - rockafelladev@gmail.com
 
 <br/>
