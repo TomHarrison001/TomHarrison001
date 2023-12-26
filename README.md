@@ -43,11 +43,8 @@ No activity tracked
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 47 mins    ███████████████████████▒░   93.15 %
-TOML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Python   41 mins         █████████████████████████   99.90 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
