@@ -43,7 +43,7 @@ No activity tracked
 <!--START_SECTION:waka-->
 
 ```txt
-C#   1 hr 46 mins    █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
