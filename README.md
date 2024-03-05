@@ -1,7 +1,7 @@
 ```
 - 👋 Hi, I’m @TomHarrison001
 - 👀 I’m interested in programming, game development and web development
-- 🌱 I’m currently learning SAP
+- 🌱 I’m currently learning Shader Programming
 - 💻 I'm an aspiring full stack developer and you can find my content on: https://rockafelladev.co.uk
 - 💬 Ask me about Python, C#/C++ and frontend
 - 📫 How to reach me: 
