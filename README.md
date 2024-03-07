@@ -43,7 +43,8 @@ No activity tracked
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#         1 hr 3 mins     ███████████████████████░░   91.36 %
+Markdown   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
 ```
 
 <!--END_SECTION:waka-->
