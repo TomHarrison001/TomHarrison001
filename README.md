@@ -43,9 +43,8 @@ No activity tracked
 <!--START_SECTION:waka-->
 
 ```txt
-C#         5 hrs 8 mins    ████████████████████████▒   97.26 %
-Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-XAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+C#     4 hrs 8 mins    ████████████████████████▒   97.33 %
+XAML   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
