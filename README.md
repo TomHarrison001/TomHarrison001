@@ -4,7 +4,7 @@
 > - 👀 I’m interested in programming, game development and web development
 > - 🌱 I’m currently learning Shader Programming
 > - 💻 I'm an aspiring full stack developer and you can find my content on: https://rockafelladev.co.uk
-> - 💬 Ask me about Python, C#/C++ and frontend
+> - 💬 Ask me about Python, C#/C++ and frontend/backend
 > - 📫 How to reach me: 
 >     - [email](rockafelladev@gmail.com)  
 >     - [other](https://rockafelladev.co.uk/#contact)
