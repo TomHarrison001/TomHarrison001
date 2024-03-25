@@ -9,11 +9,11 @@
 >     - [email](rockafelladev@gmail.com)  
 >     - [other](https://rockafelladev.co.uk/#contact)
 > - 😄 Pronouns: he/him
-> - ⚡ Fun fact: I started programming with Python 9 years ago (2012)
+> - ⚡ Fun fact: I started programming with Python 12 years ago (2012)
   
 <br/>
 
-Links:
+## Links
 - Website - [https://rockafelladev.co.uk/](https://rockafelladev.co.uk/)
 - LinkedIn - [https://www.linkedin.com/in/tom-harrison-272707260/](https://www.linkedin.com/in/tom-harrison-272707260/)
 - Youtube - [https://www.youtube.com/@rockafella001](https://www.youtube.com/@rockafella001)
