@@ -10,8 +10,6 @@
 >     - [other](https://rockafelladev.co.uk/#contact)
 > - 😄 Pronouns: he/him
 > - ⚡ Fun fact: I started programming with Python 12 years ago (2012)
-  
-<br/>
 
 ## Links
 - Website - [https://rockafelladev.co.uk/](https://rockafelladev.co.uk/)
@@ -21,7 +19,7 @@
 - itch.io - [https://rockafelladev.itch.io/](https://rockafelladev.itch.io/)
 - Email - rockafelladev@gmail.com
 
-<br/>
+## Weekly Breakdown
 
 <!--START_SECTION:waka-->
 
