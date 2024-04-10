@@ -24,7 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB   0 secs          █████████████████████████   100.00 %
+Markdown     31 mins         ███████████████████████░░   92.27 %
+Git Config   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+MATLAB       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
