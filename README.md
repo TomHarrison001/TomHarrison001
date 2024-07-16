@@ -24,7 +24,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+XAML   1 hr 43 mins    ████████████████▓░░░░░░░░   66.61 %
+C#     52 mins         ████████▒░░░░░░░░░░░░░░░░   33.39 %
 ```
 
 <!--END_SECTION:waka-->
