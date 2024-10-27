@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#            17 mins         ███████████░░░░░░░░░░░░░░   44.06 %
-XAML          9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-C++           8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-Objective-C   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
