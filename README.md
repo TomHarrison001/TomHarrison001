@@ -24,7 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#       15 mins         ██████████████████████▒░░   89.18 %
+Binary   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
