@@ -9,7 +9,7 @@
 >     - [email](rockafelladev@gmail.com)  
 >     - [other](https://rockafelladev.co.uk/#contact)
 > - 😄 Pronouns: he/him
-> - ⚡ Fun fact: I started programming with Python 12 years ago (2012)
+> - ⚡ Fun fact: I started programming with Python 13 years ago (2012)
 
 ## Links
 - Website - [https://rockafelladev.co.uk/](https://rockafelladev.co.uk/)
