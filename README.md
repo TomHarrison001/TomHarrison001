@@ -24,7 +24,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++           48 mins         ██████████████████████░░░   88.37 %
+Objective-C   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
 ```
 
 <!--END_SECTION:waka-->
