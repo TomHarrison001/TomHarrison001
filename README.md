@@ -10,11 +10,11 @@ I’m Tom Harrison, a programmer from Leicester, United Kingdom.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 6 mins    ███████████████▓░░░░░░░░░   62.74 %
-CSS          1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
-Python       47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+JavaScript   12 hrs 25 mins  ███████████████████▒░░░░░   77.75 %
+CSS          1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Python       48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Bash         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
