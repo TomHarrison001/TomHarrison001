@@ -10,9 +10,7 @@ I’m Tom Harrison, a programmer from Leicester, United Kingdom.
 <!--START_SECTION:waka-->
 
 ```txt
-C++        9 mins                ████████████████████░░░░░   80.38 %
-CMake      2 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
