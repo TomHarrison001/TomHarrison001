@@ -1,19 +1,9 @@
-## Hi there👋
+## Hi there 👋
 I’m Tom Harrison, a programmer from Leicester, United Kingdom.
-- 👀 I’m interested in programming, game development and web development
+- 👀 I’m interested in programming and homelabbing 
 - 🌱 I’m currently working as a Graduate Software Engineer
-- 💻 I'm an aspiring Software Engineer + Full Stack Developer
+- 💻 I'm an aspiring Software Architect
 - 📫 How to reach me: [rockafelladev@gmail.com](rockafelladev@gmail.com)
-
-<!-- ## Weekly Breakdown -->
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <!-- ## Trophies -->
 
